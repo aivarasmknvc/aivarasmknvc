@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aivarasmknvc
-- 👀 At the moment, I'm going into JAVA depths
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me mknvc.media@gmail.com
 

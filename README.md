@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aivarasmknvc
-- 👀 I’m interested in Full-Stack engineering
-- 🌱 I’m currently learning JavaScript and other "Full-Stack" languages
+- 👀 At the moment, I'm going into JAVA depths
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me mknvc.media@gmail.com
 
 <!---
